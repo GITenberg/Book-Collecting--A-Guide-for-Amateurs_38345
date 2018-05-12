@@ -1,0 +1,30 @@
+_repo: Book-Collecting--A-Guide-for-Amateurs_38345
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38345-h/images/0_cover.png
+creator:
+  author:
+    agent_name: Slater, J. Herbert (John Herbert)
+    aliases:
+    - Slater, John Herbert
+    - Slater, J. H. (John Herbert)
+    birthdate: 1854
+    deathdate: 1921
+    gutenberg_agent_id: '39414'
+    url: http://www.gutenberg.org/2009/agents/39414
+description: ''
+gutenberg_issued: '2011-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38345'
+  lccn: 05026833
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Book collecting'
+title: 'Book Collecting: A Guide for Amateurs'
+url: http://www.gutenberg.org/ebooks/38345
